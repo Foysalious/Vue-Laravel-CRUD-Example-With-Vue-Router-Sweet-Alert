@@ -19,7 +19,7 @@
         "sass-loader": "^8.0.0"
     },
     "dependencies": {
-        "moment": "^2.27.0",
+        "moment": "^2.29.2",
         "vform": "^1.0.1",
         "vue-progressbar": "^0.7.5",
         "vue-router": "^3.3.4",
